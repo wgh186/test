@@ -5,5 +5,5 @@ Git tracks changes of files.
 test changes.
 Creating a new branch is quick.
 Creating a new branch is quick AND simple.
-test no fast forward.
+test a no fast forward.
 
