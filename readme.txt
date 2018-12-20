@@ -6,4 +6,6 @@ test changes.
 Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 test a no fast forward.
+this is test now.
+
 
